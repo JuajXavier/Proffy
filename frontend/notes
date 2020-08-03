@@ -1,0 +1,8 @@
+100vh =  altura 100%, ocupa tudo;
+
+var(--variaveis-cores);
+
+90vw = 90% da largura da tela;
+
+rem = medida de unidade relativa, 1.6rem = 60% a mais do tamanho padrão da fonte;
+
