@@ -8,3 +8,4 @@ rem = medida de unidade relativa, 1.6rem = 60% a mais do tamanho padrão da font
 
 { props.description && <p>{props.description}</p> } -> a segunda parte só executa se a primeira for verdadeira;
 
+target="_blank" // abrir o contato em outra pagina
